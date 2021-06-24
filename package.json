@@ -60,5 +60,9 @@
     "hooks": {
       "pre-commit": "lerna run --concurrency 1 --stream precommit"
     }
+  },
+  "dependencies": {
+    "core-js": "^3.15.1",
+    "gatsby": "^3.8.0"
   }
 }
