@@ -1,9 +1,5 @@
-.DS_Store
-node_modules
-.temp
-yarn-error.log
-.next
+bundle.js
+bundle.js.map
 .env
-.idea
-yalc.lock
-.yalc
+.env.dev
+node_modules
