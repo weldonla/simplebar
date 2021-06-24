@@ -1,4 +1,10 @@
-bundle.js
-bundle.js.map
+.DS_Store
+node_modules
+.temp
+dist
+yarn-error.log
+.next
 .env
-.env.dev
+.idea
+yalc.lock
+.yalc
