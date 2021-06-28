@@ -1,5 +1,7 @@
 # SimpleBar [![npm package][npm-badge]][npm] ![size-badge]
 
+:warning: This project is just a copy pasta of the original simplebar project. I just needed to make a slight change. This version adds another property, recalculateThrottleWaitTime, so that you can adjust it to prevent the resize loop observer error.
+
 :warning: SimpleBar v5 is here! There are some **breaking changes!** Make sure to check out [the changelog](https://github.com/Grsmto/simplebar/releases) before updating.
 
 SimpleBar is a plugin that tries to solve a long time problem: how to get custom scrollbars for your web-app while keeping a good user experience?
@@ -10,7 +12,7 @@ SimpleBar is meant to be as easy to use as possible and lightweight. If you want
 ### Installation
 
 **- Via npm**
-`npm install simplebar --save`
+`npm install simplebar_weldonla --save`
 
 **- Via Yarn**
 `yarn add simplebar`
